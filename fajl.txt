@@ -1,0 +1,13 @@
+    1  ls -l
+    2  cd Users
+    3  pwd
+    4  ls -l
+    5  cd Burgic
+    6  ls -l
+    7  cd Desktop
+    8  ls -l
+    9  mkdir novi
+   10  ls -l
+   11  cd novi
+   12  touch fajl.txt
+   13  history > fajl.txt
